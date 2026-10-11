@@ -43,4 +43,4 @@ Regenerates the dataset (`synthetic_fouling_data.csv`), all metrics and the figu
 - No hyperparameter tuning.
 
 ## Author
-AJ, Chemical and Polymer Engineering, Lagos State University.
+Joshua Mosebolatan, Chemical Engineering, Lagos State University.
